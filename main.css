@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Barlow:wght@100;300&family=Karla&family=Libre+Franklin:wght@100;200&family=Oxygen:wght@300&display=swap');
+*{font-family: 'Libre Franklin', sans-serif;
+
+
+}
+.large {
+    font-size: 50px;
+}
+.unit1 {
+    background-color: #F2F2F2;
+}
+*{color: #424242;
+}
+*{background-color: #FAFAFA;
+}
+h1{
+    color: rgb(221, 72, 20);
+}
+h2{
+    color: rgb(221, 72, 20);
+}
+p, li{
+    color: #424242;
+}
+h3{
+    color: #424242;
+}
+
+a {
+    color: rgb(221, 72, 20);
+  }
+
+  div {
+    padding-top: 25px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+  }
+
+  * {
+    box-sizing: border-box;
+}
+.box {
+    color:white;
+    
+    font-size: 15px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding-top:10px;
+    padding-right:110px;
+    padding-bottom:10px;
+    padding-left:110px;
+  
+}
+.box a:link, a:visited {
+    font-size: 15px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: rgb(221, 72, 20);
+    color: white;
+    font-size:15px;
+    padding: 10px, 10px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .box1 { background:rgb(221, 72, 20);}
+  .box2 { background:rgb(221, 72, 20);}
+  .box3 { background:rgb(221, 72, 20);}
+  .box4 { background:rgb(221, 72, 20);}
+
+.container {
+    display: flex;
+}
